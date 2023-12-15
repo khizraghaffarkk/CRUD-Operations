@@ -1,0 +1,20 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "====================================================\r Morning Standup Meeting:\r Task I Will  Do Today (Week-5_Day1 Agenda):\r ====================================================\r Week-5_Day1:\r Today, I will design REST Api with the help of  Node Js, Express and Postman tools.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js is run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
